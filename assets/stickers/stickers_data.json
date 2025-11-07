@@ -1,0 +1,52 @@
+{
+  "packs": [
+    {
+      "id": "emojis_clasicos",
+      "name": "Emojis Clásicos",
+      "stickers": [
+        {"id": "happy", "emoji": "😊", "name": "Feliz"},
+        {"id": "love", "emoji": "😍", "name": "Enamorado"},
+        {"id": "laugh", "emoji": "😂", "name": "Risa"},
+        {"id": "cool", "emoji": "😎", "name": "Genial"},
+        {"id": "wink", "emoji": "😉", "name": "Guiño"},
+        {"id": "kiss", "emoji": "😘", "name": "Beso"},
+        {"id": "sad", "emoji": "😢", "name": "Triste"},
+        {"id": "angry", "emoji": "😠", "name": "Enojado"},
+        {"id": "surprised", "emoji": "😱", "name": "Sorprendido"},
+        {"id": "thinking", "emoji": "🤔", "name": "Pensando"}
+      ]
+    },
+    {
+      "id": "animales",
+      "name": "Animales Lindos",
+      "stickers": [
+        {"id": "cat", "emoji": "🐱", "name": "Gatito"},
+        {"id": "dog", "emoji": "🐶", "name": "Perrito"},
+        {"id": "panda", "emoji": "🐼", "name": "Panda"},
+        {"id": "koala", "emoji": "🐨", "name": "Koala"},
+        {"id": "monkey", "emoji": "🐵", "name": "Mono"},
+        {"id": "lion", "emoji": "🦁", "name": "León"},
+        {"id": "tiger", "emoji": "🐯", "name": "Tigre"},
+        {"id": "fox", "emoji": "🦊", "name": "Zorro"},
+        {"id": "rabbit", "emoji": "🐰", "name": "Conejo"},
+        {"id": "bear", "emoji": "🐻", "name": "Oso"}
+      ]
+    },
+    {
+      "id": "celebracion",
+      "name": "Celebración",
+      "stickers": [
+        {"id": "party", "emoji": "🎉", "name": "Fiesta"},
+        {"id": "birthday", "emoji": "🎂", "name": "Cumpleaños"},
+        {"id": "gift", "emoji": "🎁", "name": "Regalo"},
+        {"id": "trophy", "emoji": "🏆", "name": "Trofeo"},
+        {"id": "medal", "emoji": "🏅", "name": "Medalla"},
+        {"id": "star", "emoji": "⭐", "name": "Estrella"},
+        {"id": "fire", "emoji": "🔥", "name": "Fuego"},
+        {"id": "heart", "emoji": "❤️", "name": "Corazón"},
+        {"id": "thumbs_up", "emoji": "👍", "name": "Me gusta"},
+        {"id": "clap", "emoji": "👏", "name": "Aplausos"}
+      ]
+    }
+  ]
+}
